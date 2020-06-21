@@ -56,7 +56,6 @@ relativePath.forEach(filePath => {
 
 // README.md 中的内容
 let readmeContent = `
-# DayNote
 
 Leetcode-Java实现，记录易理解或最优的解法
 
